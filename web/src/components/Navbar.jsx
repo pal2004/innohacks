@@ -9,7 +9,7 @@ const Navbar = () => {
     <div className='flex gap-10 font-semibold text-xl text-white self-center mt-4 lg:mr-28'>
 <Link className='self-center hidden lg:block'>About us</Link>
 <NavLink to="/team" className='self-center hidden lg:block'>Our Team</NavLink>
-<a href='https://log-eye-signin-up.vercel.app/'  className='bg-[#3a5387] text-white px-5 rounded-3xl py-1 mx-auto'>Sign-In/Up<span className='text-2xl'>&#8594;</span></a>
+<NavLink to="/signin"  className='bg-[#3a5387] text-white px-5 rounded-3xl py-1 mx-auto'>Sign-In/Up<span className='text-2xl'>&#8594;</span></  NavLink>
     </div>
 
     </div>
