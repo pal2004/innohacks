@@ -1,0 +1,20 @@
+.article
+{
+    text-align: center;
+    border-radius:15px;
+    box-shadow: 4px 4px 50px black;
+    transition-property: all;
+    transition-duration: .2s;
+    transition-timing-function: ease-in;
+  
+       
+}
+.article:hover{
+   transform: scale(1.05);
+   background-color: #3a5387;
+    
+    
+}
+.article:hover .heading{
+    text-shadow: 4px 4px 2px black;
+}
