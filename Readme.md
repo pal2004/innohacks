@@ -5,7 +5,8 @@
 
 ## Tagline:
 Observe anything from anywhere
-![web1](https://github.com/pal2004/innohacks/assets/150178011/e13cdfb0-8bc1-4fe0-934c-ee689690fdc7)
+
+![web2](https://github.com/pal2004/innohacks/assets/150178011/585640ee-3150-48a0-9e55-043a95a1f595)
 
 
 LogEye is a powerful tool designed to monitor and analyze log data from computer systems within a network. Its primary function is to detect unauthorized changes and events based on predefined criteria, providing real-time alerts to administrators.
